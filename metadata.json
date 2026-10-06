@@ -1,0 +1,6 @@
+{
+  "name": "Ismail Clothing Center - Ladies Unstitched & Bespoke Stitching",
+  "description": "Premium ladies unstitched Pakistani clothing collections and bespoke master stitching services in Rawalpindi, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
